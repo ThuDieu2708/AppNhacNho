@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/BAITAPLON/app/src/main/res/drawable/btn2_background.xml" value="0.171875" />
+        <entry key="..\:/Android/BAITAPLON/app/src/main/res/drawable/btn_background.xml" value="0.171875" />
+        <entry key="..\:/Android/BAITAPLON/app/src/main/res/drawable/primary_color.xml" value="0.24895833333333334" />
+        <entry key="..\:/Android/BAITAPLON/app/src/main/res/drawable/radius_ayout.xml" value="0.24895833333333334" />
+        <entry key="..\:/Android/BAITAPLON/app/src/main/res/drawable/radius_layout.xml" value="0.171875" />
+        <entry key="..\:/Android/BAITAPLON/app/src/main/res/drawable/thumb.xml" value="0.24895833333333334" />
+        <entry key="..\:/Android/BAITAPLON/app/src/main/res/drawable/track.xml" value="0.24895833333333334" />
+        <entry key="..\:/Android/BAITAPLON/app/src/main/res/layout/activity_add.xml" value="0.17408906882591094" />
+        <entry key="..\:/Android/BAITAPLON/app/src/main/res/layout/activity_main.xml" value="0.21145833333333333" />
+        <entry key="..\:/Android/BAITAPLON/app/src/main/res/layout/activity_nhac_nho.xml" value="0.264" />
+        <entry key="..\:/Android/BAITAPLON/app/src/main/res/layout/activity_update.xml" value="0.178125" />
+        <entry key="..\:/Android/BAITAPLON/app/src/main/res/layout/datetime.xml" value="0.1947463768115942" />
+        <entry key="..\:/Android/BAITAPLON/app/src/main/res/menu/list_menu.xml" value="0.22864583333333333" />
+        <entry key="..\:/Android/BAITAPLON/app/src/main/res/menu/menu_nhacnho.xml" value="0.264" />
+        <entry key="..\:/Android/BAITAPLON/app/src/main/res/menu/menu_update.xml" value="0.22864583333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

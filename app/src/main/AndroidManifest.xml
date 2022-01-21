@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.ungdungnhacnho">
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/iconnote_round"
+        android:roundIcon="@mipmap/iconnote_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.UngDungNhacNho">
+        <activity
+            android:label="@string/titleUpdate"
+            android:name=".View.UpdateActivity"
+            android:exported="false" />
+        <activity
+            android:label="@string/titleMain"
+            android:name=".View.NhacNhoActivity"
+            android:exported="false" />
+        <activity
+            android:label="@string/titleAdd"
+            android:name=".View.AddActivity"
+            android:exported="false" />
+        <activity
+            android:label="@string/titleMain"
+            android:name=".View.MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <receiver android:name=".Helper.MyBoardCast"/>
+    </application>
+
+</manifest>

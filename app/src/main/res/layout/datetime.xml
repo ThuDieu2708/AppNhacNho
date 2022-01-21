@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/relativeLayout"
+    android:orientation="vertical">
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardCornerRadius="3dp"
+        app:cardElevation="2dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp">
+
+        <RelativeLayout
+            android:id="@+id/layout1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp">
+            <TextView
+                android:id="@+id/textTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="15dp"
+                android:text="Title"
+                android:layout_marginLeft="25dp"
+                android:textColor="@color/black"
+                android:textSize="35dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/txtContent"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textTitle"
+                android:gravity="left|center"
+                android:hint="Content"
+                android:ellipsize="end"
+                android:maxLines="1"
+                android:layout_marginLeft="25dp"
+                android:textColor="@color/black"
+                android:textSize="24dp" />
+
+            <TextView
+                android:id="@+id/txtTime"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:hint="Time"
+                android:text="Time"
+                android:layout_marginLeft="25dp"
+                android:layout_below="@+id/txtContent"
+                android:textSize="20dp"/>
+
+            <TextView
+                android:id="@+id/txtDate"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/txtContent"
+                android:layout_marginLeft="5dp"
+                android:layout_toRightOf="@id/txtTime"
+                android:gravity="left|center"
+                android:hint="Date..."
+                android:textSize="20dp" />
+
+<!--            <androidx.appcompat.widget.SwitchCompat-->
+<!--                android:id="@+id/swic8h"-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:layout_marginLeft="150dp"-->
+<!--                android:layout_marginTop="32dp"-->
+<!--                android:layout_toRightOf="@id/txtDate"-->
+<!--                android:thumb="@drawable/thumb"-->
+<!--                app:track="@drawable/track" />-->
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="-21dp"
+                android:layout_marginTop="25dp"
+                android:layout_toRightOf="@+id/txtDate"
+                android:gravity="left|center"
+                android:orientation="vertical"
+                android:padding="10dp">
+
+                <TextView
+                    android:id="@+id/txtDateFuture"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="70dp"
+                    android:hint="Date_Future"
+                    android:textColor="@color/white"
+                    android:textSize="18dp" />
+
+                <TextView
+                    android:id="@+id/txtTimeFuture"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="70dp"
+                    android:hint="Time_Future"
+                    android:textColor="@color/white"
+                    android:textSize="18dp" />
+            </LinearLayout>
+        </RelativeLayout>
+    </androidx.cardview.widget.CardView>
+
+
+</RelativeLayout>

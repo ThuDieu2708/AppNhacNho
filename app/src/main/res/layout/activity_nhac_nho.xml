@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#65A69A"
+    android:id="@+id/layoutMainNN"
+    tools:context=".View.NhacNhoActivity">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="15dp"
+        android:padding="10dp">
+
+        <EditText
+            android:id="@+id/edit_Date"
+            android:layout_width="240dp"
+            android:layout_height="wrap_content"
+            android:hint="@string/editDate"
+            android:textColor="@color/white"
+            android:textColorHint="@color/white"
+            android:inputType="date"
+            android:layout_marginRight="3dp"
+            android:textSize="18dp" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btn_Date"
+            android:layout_width="130dp"
+            android:layout_height="50dp"
+            android:background="@drawable/radius_layout"
+            android:text="@string/btnDate"
+            android:textSize="15dp"
+            android:textColor="@color/white"
+            android:drawableLeft="@drawable/cham" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="10dp">
+
+        <EditText
+            android:id="@+id/editTime"
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:hint="@string/editTime"
+            android:inputType="time"
+            android:layout_marginRight="43dp"
+            android:textColor="@color/white"
+            android:textColorHint="@color/white"
+            android:textSize="18dp" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btnTime"
+            android:layout_width="130dp"
+            android:layout_height="50dp"
+            android:textSize="16dp"
+            android:textColor="@color/white"
+            android:background="@drawable/radius_layout"
+            android:text="@string/btnTime" />
+
+
+    </LinearLayout>
+
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btnNhacNho"
+        android:layout_width="138dp"
+        android:layout_gravity="center"
+        android:background="@drawable/radius_layout"
+        android:text="@string/btnNN"
+        android:textSize="15dp"
+        android:layout_marginTop="50dp"
+        android:drawableLeft="@drawable/clock"
+        android:textColor="@color/white"
+        android:layout_height="50dp"/>
+</LinearLayout>

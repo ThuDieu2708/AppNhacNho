@@ -1,0 +1,101 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.ungdungnhacnho"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->E:\Android\BAITAPLON\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->E:\Android\BAITAPLON\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->E:\Android\BAITAPLON\app\src\main\AndroidManifest.xml:4:5-34:19
+12        android:allowBackup="true"
+12-->E:\Android\BAITAPLON\app\src\main\AndroidManifest.xml:5:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.7.0] C:\Users\Thu Dieu\.gradle\caches\transforms-3\21249a56641fb0309777a5ae16ce99ff\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:extractNativeLibs="false"
+16        android:icon="@mipmap/iconnote_round"
+16-->E:\Android\BAITAPLON\app\src\main\AndroidManifest.xml:6:9-46
+17        android:roundIcon="@mipmap/iconnote_round"
+17-->E:\Android\BAITAPLON\app\src\main\AndroidManifest.xml:7:9-51
+18        android:supportsRtl="true"
+18-->E:\Android\BAITAPLON\app\src\main\AndroidManifest.xml:8:9-35
+19        android:testOnly="true"
+20        android:theme="@style/Theme.UngDungNhacNho" >
+20-->E:\Android\BAITAPLON\app\src\main\AndroidManifest.xml:9:9-52
+21        <activity
+21-->E:\Android\BAITAPLON\app\src\main\AndroidManifest.xml:10:9-13:40
+22            android:name="com.example.ungdungnhacnho.View.UpdateActivity"
+22-->E:\Android\BAITAPLON\app\src\main\AndroidManifest.xml:12:13-48
+23            android:exported="false"
+23-->E:\Android\BAITAPLON\app\src\main\AndroidManifest.xml:13:13-37
+24            android:label="@string/titleUpdate" />
+24-->E:\Android\BAITAPLON\app\src\main\AndroidManifest.xml:11:13-48
+25        <activity
+25-->E:\Android\BAITAPLON\app\src\main\AndroidManifest.xml:14:9-17:40
+26            android:name="com.example.ungdungnhacnho.View.NhacNhoActivity"
+26-->E:\Android\BAITAPLON\app\src\main\AndroidManifest.xml:16:13-49
+27            android:exported="false"
+27-->E:\Android\BAITAPLON\app\src\main\AndroidManifest.xml:17:13-37
+28            android:label="@string/titleMain" />
+28-->E:\Android\BAITAPLON\app\src\main\AndroidManifest.xml:15:13-46
+29        <activity
+29-->E:\Android\BAITAPLON\app\src\main\AndroidManifest.xml:18:9-21:40
+30            android:name="com.example.ungdungnhacnho.View.AddActivity"
+30-->E:\Android\BAITAPLON\app\src\main\AndroidManifest.xml:20:13-45
+31            android:exported="false"
+31-->E:\Android\BAITAPLON\app\src\main\AndroidManifest.xml:21:13-37
+32            android:label="@string/titleAdd" />
+32-->E:\Android\BAITAPLON\app\src\main\AndroidManifest.xml:19:13-45
+33        <activity
+33-->E:\Android\BAITAPLON\app\src\main\AndroidManifest.xml:22:9-31:20
+34            android:name="com.example.ungdungnhacnho.View.MainActivity"
+34-->E:\Android\BAITAPLON\app\src\main\AndroidManifest.xml:24:13-46
+35            android:exported="true"
+35-->E:\Android\BAITAPLON\app\src\main\AndroidManifest.xml:25:13-36
+36            android:label="@string/titleMain" >
+36-->E:\Android\BAITAPLON\app\src\main\AndroidManifest.xml:23:13-46
+37            <intent-filter>
+37-->E:\Android\BAITAPLON\app\src\main\AndroidManifest.xml:26:13-30:29
+38                <action android:name="android.intent.action.MAIN" />
+38-->E:\Android\BAITAPLON\app\src\main\AndroidManifest.xml:27:17-69
+38-->E:\Android\BAITAPLON\app\src\main\AndroidManifest.xml:27:25-66
+39
+40                <category android:name="android.intent.category.LAUNCHER" />
+40-->E:\Android\BAITAPLON\app\src\main\AndroidManifest.xml:29:17-77
+40-->E:\Android\BAITAPLON\app\src\main\AndroidManifest.xml:29:27-74
+41            </intent-filter>
+42        </activity>
+43
+44        <receiver android:name="com.example.ungdungnhacnho.Helper.MyBoardCast" />
+44-->E:\Android\BAITAPLON\app\src\main\AndroidManifest.xml:33:9-55
+44-->E:\Android\BAITAPLON\app\src\main\AndroidManifest.xml:33:19-53
+45
+46        <provider
+46-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Thu Dieu\.gradle\caches\transforms-3\beb1e8c1d1724370afa1be71eb324942\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+47            android:name="androidx.startup.InitializationProvider"
+47-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Thu Dieu\.gradle\caches\transforms-3\beb1e8c1d1724370afa1be71eb324942\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+48            android:authorities="com.example.ungdungnhacnho.androidx-startup"
+48-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Thu Dieu\.gradle\caches\transforms-3\beb1e8c1d1724370afa1be71eb324942\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+49            android:exported="false" >
+49-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Thu Dieu\.gradle\caches\transforms-3\beb1e8c1d1724370afa1be71eb324942\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+50            <meta-data
+50-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Thu Dieu\.gradle\caches\transforms-3\beb1e8c1d1724370afa1be71eb324942\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+51                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+51-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Thu Dieu\.gradle\caches\transforms-3\beb1e8c1d1724370afa1be71eb324942\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+52                android:value="androidx.startup" />
+52-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Thu Dieu\.gradle\caches\transforms-3\beb1e8c1d1724370afa1be71eb324942\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+53            <meta-data
+53-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Thu Dieu\.gradle\caches\transforms-3\4d87c3e3b70abeed5e61faf08f3b9b5b\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+54                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+54-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Thu Dieu\.gradle\caches\transforms-3\4d87c3e3b70abeed5e61faf08f3b9b5b\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+55                android:value="androidx.startup" />
+55-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Thu Dieu\.gradle\caches\transforms-3\4d87c3e3b70abeed5e61faf08f3b9b5b\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+56        </provider>
+57    </application>
+58
+59</manifest>

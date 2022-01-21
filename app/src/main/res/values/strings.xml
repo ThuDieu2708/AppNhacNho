@@ -1,0 +1,18 @@
+<resources>
+    <string name="titleMain">Remind</string>
+    <string name="titleAdd">Add Remind</string>
+    <string name="titleUpdate">Update Remind</string>
+    <string name="deleAll">Delete All</string>
+    <string name="mauNen">Background</string>
+    <string name="nhacNho">Settings Remind</string>
+    <string name="huyNhacNho">Cancle Remind</string>
+    <string name="editTitle">This Is The Tiltle</string>
+    <string name="editContent">This Is The Content</string>
+    <string name="editDate">Date...</string>
+    <string name="editTime">Time...</string>
+    <string name="btnAdd">Save</string>
+    <string name="btnUpdate">Update</string>
+    <string name="btnDate">Date</string>
+    <string name="btnTime">Select Time</string>
+    <string name="btnNN">Settings Remind</string>
+</resources>

@@ -1,0 +1,234 @@
+[
+    {
+        "merged": "E:\\Android\\BAITAPLON\\app\\build\\intermediates\\merged_res\\debug\\drawable_date.png.flat",
+        "source": "E:\\Android\\BAITAPLON\\app\\src\\main\\res\\drawable\\date.png"
+    },
+    {
+        "merged": "E:\\Android\\BAITAPLON\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\Android\\BAITAPLON\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\Android\\BAITAPLON\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\Android\\BAITAPLON\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\Android\\BAITAPLON\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_iconnote_round.xml.flat",
+        "source": "E:\\Android\\BAITAPLON\\app\\src\\main\\res\\mipmap-anydpi-v26\\iconnote_round.xml"
+    },
+    {
+        "merged": "E:\\Android\\BAITAPLON\\app\\build\\intermediates\\merged_res\\debug\\menu_menu_update.xml.flat",
+        "source": "E:\\Android\\BAITAPLON\\app\\src\\main\\res\\menu\\menu_update.xml"
+    },
+    {
+        "merged": "E:\\Android\\BAITAPLON\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_nhac_nho.xml.flat",
+        "source": "E:\\Android\\BAITAPLON\\app\\src\\main\\res\\layout\\activity_nhac_nho.xml"
+    },
+    {
+        "merged": "E:\\Android\\BAITAPLON\\app\\build\\intermediates\\merged_res\\debug\\drawable_thumb.xml.flat",
+        "source": "E:\\Android\\BAITAPLON\\app\\src\\main\\res\\drawable\\thumb.xml"
+    },
+    {
+        "merged": "E:\\Android\\BAITAPLON\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_iconnote_foreground.png.flat",
+        "source": "E:\\Android\\BAITAPLON\\app\\src\\main\\res\\mipmap-xxxhdpi\\iconnote_foreground.png"
+    },
+    {
+        "merged": "E:\\Android\\BAITAPLON\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_iconnote.png.flat",
+        "source": "E:\\Android\\BAITAPLON\\app\\src\\main\\res\\mipmap-mdpi\\iconnote.png"
+    },
+    {
+        "merged": "E:\\Android\\BAITAPLON\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "E:\\Android\\BAITAPLON\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\Android\\BAITAPLON\\app\\build\\intermediates\\merged_res\\debug\\drawable_primary_color.xml.flat",
+        "source": "E:\\Android\\BAITAPLON\\app\\src\\main\\res\\drawable\\primary_color.xml"
+    },
+    {
+        "merged": "E:\\Android\\BAITAPLON\\app\\build\\intermediates\\merged_res\\debug\\drawable_radius_layout.xml.flat",
+        "source": "E:\\Android\\BAITAPLON\\app\\src\\main\\res\\drawable\\radius_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\BAITAPLON\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\Android\\BAITAPLON\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\Android\\BAITAPLON\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\Android\\BAITAPLON\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\Android\\BAITAPLON\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_iconnote_foreground.png.flat",
+        "source": "E:\\Android\\BAITAPLON\\app\\src\\main\\res\\mipmap-mdpi\\iconnote_foreground.png"
+    },
+    {
+        "merged": "E:\\Android\\BAITAPLON\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_iconnote_round.png.flat",
+        "source": "E:\\Android\\BAITAPLON\\app\\src\\main\\res\\mipmap-hdpi\\iconnote_round.png"
+    },
+    {
+        "merged": "E:\\Android\\BAITAPLON\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\Android\\BAITAPLON\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Android\\BAITAPLON\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_iconnote_foreground.png.flat",
+        "source": "E:\\Android\\BAITAPLON\\app\\src\\main\\res\\mipmap-hdpi\\iconnote_foreground.png"
+    },
+    {
+        "merged": "E:\\Android\\BAITAPLON\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_iconnote_round.png.flat",
+        "source": "E:\\Android\\BAITAPLON\\app\\src\\main\\res\\mipmap-xxhdpi\\iconnote_round.png"
+    },
+    {
+        "merged": "E:\\Android\\BAITAPLON\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "E:\\Android\\BAITAPLON\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\Android\\BAITAPLON\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\Android\\BAITAPLON\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\Android\\BAITAPLON\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "E:\\Android\\BAITAPLON\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\Android\\BAITAPLON\\app\\build\\intermediates\\merged_res\\debug\\drawable_track.xml.flat",
+        "source": "E:\\Android\\BAITAPLON\\app\\src\\main\\res\\drawable\\track.xml"
+    },
+    {
+        "merged": "E:\\Android\\BAITAPLON\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_update.xml.flat",
+        "source": "E:\\Android\\BAITAPLON\\app\\src\\main\\res\\layout\\activity_update.xml"
+    },
+    {
+        "merged": "E:\\Android\\BAITAPLON\\app\\build\\intermediates\\merged_res\\debug\\menu_menu_nhacnho.xml.flat",
+        "source": "E:\\Android\\BAITAPLON\\app\\src\\main\\res\\menu\\menu_nhacnho.xml"
+    },
+    {
+        "merged": "E:\\Android\\BAITAPLON\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\Android\\BAITAPLON\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\Android\\BAITAPLON\\app\\build\\intermediates\\merged_res\\debug\\drawable_bell.png.flat",
+        "source": "E:\\Android\\BAITAPLON\\app\\src\\main\\res\\drawable\\bell.png"
+    },
+    {
+        "merged": "E:\\Android\\BAITAPLON\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_add_24.xml.flat",
+        "source": "E:\\Android\\BAITAPLON\\app\\src\\main\\res\\drawable\\ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "E:\\Android\\BAITAPLON\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_iconnote_round.png.flat",
+        "source": "E:\\Android\\BAITAPLON\\app\\src\\main\\res\\mipmap-xxxhdpi\\iconnote_round.png"
+    },
+    {
+        "merged": "E:\\Android\\BAITAPLON\\app\\build\\intermediates\\merged_res\\debug\\menu_list_menu.xml.flat",
+        "source": "E:\\Android\\BAITAPLON\\app\\src\\main\\res\\menu\\list_menu.xml"
+    },
+    {
+        "merged": "E:\\Android\\BAITAPLON\\app\\build\\intermediates\\merged_res\\debug\\drawable_btn2_background.xml.flat",
+        "source": "E:\\Android\\BAITAPLON\\app\\src\\main\\res\\drawable\\btn2_background.xml"
+    },
+    {
+        "merged": "E:\\Android\\BAITAPLON\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_iconnote_round.png.flat",
+        "source": "E:\\Android\\BAITAPLON\\app\\src\\main\\res\\mipmap-xhdpi\\iconnote_round.png"
+    },
+    {
+        "merged": "E:\\Android\\BAITAPLON\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_iconnote.xml.flat",
+        "source": "E:\\Android\\BAITAPLON\\app\\src\\main\\res\\mipmap-anydpi-v26\\iconnote.xml"
+    },
+    {
+        "merged": "E:\\Android\\BAITAPLON\\app\\build\\intermediates\\merged_res\\debug\\drawable_cham.png.flat",
+        "source": "E:\\Android\\BAITAPLON\\app\\src\\main\\res\\drawable\\cham.png"
+    },
+    {
+        "merged": "E:\\Android\\BAITAPLON\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_iconnote_foreground.png.flat",
+        "source": "E:\\Android\\BAITAPLON\\app\\src\\main\\res\\mipmap-xxhdpi\\iconnote_foreground.png"
+    },
+    {
+        "merged": "E:\\Android\\BAITAPLON\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "E:\\Android\\BAITAPLON\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\Android\\BAITAPLON\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_iconnote_foreground.png.flat",
+        "source": "E:\\Android\\BAITAPLON\\app\\src\\main\\res\\mipmap-xhdpi\\iconnote_foreground.png"
+    },
+    {
+        "merged": "E:\\Android\\BAITAPLON\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\Android\\BAITAPLON\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\Android\\BAITAPLON\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_iconnote.png.flat",
+        "source": "E:\\Android\\BAITAPLON\\app\\src\\main\\res\\mipmap-hdpi\\iconnote.png"
+    },
+    {
+        "merged": "E:\\Android\\BAITAPLON\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "E:\\Android\\BAITAPLON\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\Android\\BAITAPLON\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\Android\\BAITAPLON\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\Android\\BAITAPLON\\app\\build\\intermediates\\merged_res\\debug\\drawable_alarm.png.flat",
+        "source": "E:\\Android\\BAITAPLON\\app\\src\\main\\res\\drawable\\alarm.png"
+    },
+    {
+        "merged": "E:\\Android\\BAITAPLON\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\Android\\BAITAPLON\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\Android\\BAITAPLON\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_add.xml.flat",
+        "source": "E:\\Android\\BAITAPLON\\app\\src\\main\\res\\layout\\activity_add.xml"
+    },
+    {
+        "merged": "E:\\Android\\BAITAPLON\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_iconnote.png.flat",
+        "source": "E:\\Android\\BAITAPLON\\app\\src\\main\\res\\mipmap-xxhdpi\\iconnote.png"
+    },
+    {
+        "merged": "E:\\Android\\BAITAPLON\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_iconnote.png.flat",
+        "source": "E:\\Android\\BAITAPLON\\app\\src\\main\\res\\mipmap-xhdpi\\iconnote.png"
+    },
+    {
+        "merged": "E:\\Android\\BAITAPLON\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\Android\\BAITAPLON\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\Android\\BAITAPLON\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\Android\\BAITAPLON\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\Android\\BAITAPLON\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "E:\\Android\\BAITAPLON\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\Android\\BAITAPLON\\app\\build\\intermediates\\merged_res\\debug\\drawable_clock.png.flat",
+        "source": "E:\\Android\\BAITAPLON\\app\\src\\main\\res\\drawable\\clock.png"
+    },
+    {
+        "merged": "E:\\Android\\BAITAPLON\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "E:\\Android\\BAITAPLON\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\Android\\BAITAPLON\\app\\build\\intermediates\\merged_res\\debug\\drawable_btn_background.xml.flat",
+        "source": "E:\\Android\\BAITAPLON\\app\\src\\main\\res\\drawable\\btn_background.xml"
+    },
+    {
+        "merged": "E:\\Android\\BAITAPLON\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_iconnote_round.png.flat",
+        "source": "E:\\Android\\BAITAPLON\\app\\src\\main\\res\\mipmap-mdpi\\iconnote_round.png"
+    },
+    {
+        "merged": "E:\\Android\\BAITAPLON\\app\\build\\intermediates\\merged_res\\debug\\layout_datetime.xml.flat",
+        "source": "E:\\Android\\BAITAPLON\\app\\src\\main\\res\\layout\\datetime.xml"
+    },
+    {
+        "merged": "E:\\Android\\BAITAPLON\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_iconnote.png.flat",
+        "source": "E:\\Android\\BAITAPLON\\app\\src\\main\\res\\mipmap-xxxhdpi\\iconnote.png"
+    },
+    {
+        "merged": "E:\\Android\\BAITAPLON\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\Android\\BAITAPLON\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\Android\\BAITAPLON\\app\\build\\intermediates\\merged_res\\debug\\drawable_search.png.flat",
+        "source": "E:\\Android\\BAITAPLON\\app\\src\\main\\res\\drawable\\search.png"
+    },
+    {
+        "merged": "E:\\Android\\BAITAPLON\\app\\build\\intermediates\\merged_res\\debug\\drawable_bacham.png.flat",
+        "source": "E:\\Android\\BAITAPLON\\app\\src\\main\\res\\drawable\\bacham.png"
+    }
+]

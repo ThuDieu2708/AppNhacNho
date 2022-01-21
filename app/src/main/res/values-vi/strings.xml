@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="titleMain">Nhắc nhở</string>
+    <string name="titleAdd">Thêm Nhắc Nhở</string>
+    <string name="titleUpdate">Cập Nhật Nhắc Nhở</string>
+    <string name="deleAll">Xóa Tất Cả</string>
+    <string name="mauNen">Màu Nền</string>
+    <string name="nhacNho">Cài Đặt Nhắc Nhở</string>
+    <string name="huyNhacNho">Hủy Nhắc Nhở</string>
+    <string name="editTitle">Đây Là Tiêu Đề</string>
+    <string name="editContent">Đây Là Nội Dung</string>
+    <string name="editDate">Ngày...</string>
+    <string name="editTime">Thời Gian...</string>
+    <string name="btnAdd">Lưu</string>
+    <string name="btnUpdate">Cập Nhật</string>
+    <string name="btnDate">Ngày</string>
+    <string name="btnTime">Chọn Thời Gian</string>
+    <string name="btnNN">Cài Nhắc Nhở</string>
+</resources>
